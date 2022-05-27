@@ -21,3 +21,9 @@ once inside we will have to install the dependencies using
 
 
 Once that is done, it will be available in the path https://localhost:4200
+
+
+## Account access
+
+- Email: admin@admin.com / Password: $admin22
+- Email: testing@testing.com / Password: /testing
