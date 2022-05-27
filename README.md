@@ -10,8 +10,9 @@ and clone the prject using
 ## Install dependence
 
 once inside we will have to install the dependencies using 
-``` npm install
-  or 
+``` 
+  npm install
+      or 
   yarn install
  ```
 
